@@ -1,4 +1,4 @@
-# disenos
+# diseños
 
 A new Flutter project.
 
